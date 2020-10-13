@@ -64,7 +64,7 @@
 	<properties>
 		<apache.poi.version>3.17</apache.poi.version>
 		<apache.poi-ooxml.version>3.17</apache.poi-ooxml.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<commons-io.version>2.6</commons-io.version>
 		<commons-lang3.version>3.9</commons-lang3.version>
 	</properties>
